@@ -1,7 +1,6 @@
 <template>
   <div>
     首页
-    <p>这是新增的段落</p>
   </div>
 </template>
 
